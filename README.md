@@ -6,5 +6,3 @@ it seems like there's a technical hiccup on the website link here : https://ihfa
 
 📧 How to reach me: 
 experbdtwritter@gmail.com or zarictg@gmail.com.
-
-![snake gif](https://github.com/Ihfaz-Alam/Ihfaz-Alam/blob/output/github-contribution-grid-snake.gif)
